@@ -1,2 +1,2 @@
-дарова пупсики, запускайте файлы от имени админа, иначе видновс пошлет вас куда подальше :)
-а еше кстати, это активаторы для 11 винды, на 10 хз как работает или нет
+Hello! Run the files as administrator, otherwise it won't work.
+I haven't checked if it works on Windows 10, but it works flawlessly on 11.
